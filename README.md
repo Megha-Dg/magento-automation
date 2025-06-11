@@ -23,7 +23,8 @@ Automate the **sign-up and login flow** on the following e-commerce site:
 
 
 **How to Run the Tests:**
-python tests/run_behave.py
+Run the test by using the follwing command:
+  python tests/run_behave.py
 
 **Proof of Execution:**
 Proof of execution is stored in the "TestExecution_ScreenRecording" folder, which includes;
