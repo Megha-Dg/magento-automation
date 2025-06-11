@@ -12,6 +12,7 @@ Automate the **sign-up and login flow** on the following e-commerce site:
 5. Refer the screen recording for proof of execution.
 
 **Tech Stack:**
+
 |------------------------|-------------------------------------------|
 | Category               | Tool / Framework                          |
 |------------------------|-------------------------------------------|
@@ -21,6 +22,7 @@ Automate the **sign-up and login flow** on the following e-commerce site:
 | **Design Pattern**     | Page Object Model (POM)                   |
 | **Documentation**      |Excel for test cases                       |
 |------------------------|-------------------------------------------|
+
 
 **How to Run the Tests:**
 python tests/run_behave.py
